@@ -33,17 +33,17 @@ var BatteryLevel = -1;
 // on the rme editor (these are suggested 
 // page number selections)
 function setCoreActions() {
-  actionList.stand        = 2;
+  actionList.stand        =2;
 //page 3 is walk ready
-  actionList.sit          = 4;
+  actionList.sit          = 15;
   actionList.sitshtdown   = 6;
-  actionList.wave         = 10;
-  actionList.handshake    = 11;
+  actionList.wave         = 25;
+  actionList.handshake    = 3;
   actionList.excite       = 12;
   actionList.thanks       = 13;
   actionList.superhero    = 14;
   actionList.dance        = 15;
-  actionList.nod          = 16;
+  actionList.nod          = 67;
 }
 
 /**************************************
